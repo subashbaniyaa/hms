@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -201,6 +202,8 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 =======
+=======
+>>>>>>> fb7fa3bbd671c2af14599cd96ecfe937427c0ac7
 MIT License
 
 Copyright (c) 2026 Subash
@@ -222,4 +225,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+<<<<<<< HEAD
 >>>>>>> dc65d3d269609600b69140d07a305eb91ef57095
+=======
+>>>>>>> fb7fa3bbd671c2af14599cd96ecfe937427c0ac7
