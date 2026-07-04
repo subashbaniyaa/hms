@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Hotel Management System
 
 This project was created as a learning exercise during my early days of exploring web programming. It is not intended for commercial use or enterprise-grade deployment. As a result, the code may contain vulnerabilities, as the focus was on simplicity and functionality rather than robustness or security.
@@ -70,11 +68,3 @@ npm run eslint
 ```
 npm run eslint -- --fix
 ```
-=======
-# hms
-Hotel Management System
->>>>>>> dc65d3d269609600b69140d07a305eb91ef57095
-=======
-# hms
-Hotel Management System
->>>>>>> fb7fa3bbd671c2af14599cd96ecfe937427c0ac7
